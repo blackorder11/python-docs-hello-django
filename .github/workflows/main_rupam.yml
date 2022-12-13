@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Rupam'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EF2318D6E20E430B868AA158D9189BF5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_871EFF10CB2B4707A7D96E76C1676A0A }}
